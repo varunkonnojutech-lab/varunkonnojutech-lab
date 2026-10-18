@@ -22,6 +22,10 @@
 | 🟠 Senior | [clean-architecture-cqrs-template](https://github.com/varunkonnojutech-lab/clean-architecture-cqrs-template) | Clean Architecture + CQRS + MediatR template you can clone for real projects |
 | 🟠 Senior | [dotnet-microservices](https://github.com/varunkonnojutech-lab/dotnet-microservices) | Catalog + Ordering microservices, YARP gateway, RabbitMQ events, Docker Compose, Kubernetes |
 | 🟠 Senior | [angular-dotnet-starter](https://github.com/varunkonnojutech-lab/angular-dotnet-starter) | Full-stack starter: Angular 18 + .NET 8 Web API with JWT auth |
+| 🟠 Senior | [react-dotnet-starter](https://github.com/varunkonnojutech-lab/react-dotnet-starter) | Full-stack starter: React 18 + Vite frontend + .NET 8 JWT Web API |
+| 🟠 Senior | [grpc-dotnet](https://github.com/varunkonnojutech-lab/grpc-dotnet) | gRPC in .NET 8: unary, server-streaming, and bidirectional calls |
+| 🟠 Senior | [azure-functions-serverless](https://github.com/varunkonnojutech-lab/azure-functions-serverless) | Azure Functions (.NET 8): HTTP API, Service Bus trigger, timer trigger, Key Vault + Bicep |
+| 🟠 Senior | [terraform-azure](https://github.com/varunkonnojutech-lab/terraform-azure) | Terraform IaC for Azure: App Service, Azure SQL, Key Vault, Service Bus |
 | 🔴 Advanced | [dotnet-advanced](https://github.com/varunkonnojutech-lab/dotnet-advanced) | Event sourcing, Span<T>/pipelines performance, source generators, AOT, BenchmarkDotNet |
 
 ## 📊 GitHub Stats
