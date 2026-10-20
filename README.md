@@ -61,7 +61,7 @@ Spotted a bug, a better example, or a clearer explanation? Issues and pull reque
 ## 📫 Get in touch
 
 - Email: varunkonnoju.tech@gmail.com
-- LinkedIn: (link your profile here)
+- LinkedIn: www.linkedin.com/in/varun-kumar-konnoju
 
 ---
 *Currently: Senior .NET Full Stack Developer @ Natixis (Capital Markets, New York)*
