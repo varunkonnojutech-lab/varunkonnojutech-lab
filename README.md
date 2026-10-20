@@ -18,7 +18,7 @@ I turn real-world senior engineering into code you can actually run. Every repos
 
 ## 🗺️ Start here — the learning path
 
-Fifteen repositories, ordered beginner → advanced. Pick your level and go — every repo runs with one command, and most open instantly in GitHub Codespaces (no setup needed).
+Sixteen repositories, ordered beginner → advanced. Pick your level and go — every repo runs with one command, and most open instantly in GitHub Codespaces (no setup needed).
 
 | # | Level | Repository | What you'll learn | Time |
 |---|---|---|---|---|
@@ -37,6 +37,14 @@ Fifteen repositories, ordered beginner → advanced. Pick your level and go — 
 | 13 | 🟠 Senior | [azure-functions-serverless](https://github.com/varunkonnojutech-lab/azure-functions-serverless) | Azure Functions (.NET 8): HTTP API, Service Bus trigger, timer trigger, Key Vault + Bicep | 1 week |
 | 14 | 🟠 Senior | [terraform-azure](https://github.com/varunkonnojutech-lab/terraform-azure) | Terraform IaC for Azure: App Service, Azure SQL, Key Vault, Service Bus | 3–4 days |
 | 15 | 🔴 Advanced | [dotnet-advanced](https://github.com/varunkonnojutech-lab/dotnet-advanced) | Event sourcing, Span\<T\>/pipelines performance, source generators, AOT, BenchmarkDotNet | Ongoing |
+
+## ⭐ Flagship projects
+
+One big, complete, production-shaped project — the kind teams clone and build real products on.
+
+| Project | What it is |
+|---|---|
+| [dotnet-saas-starter](https://github.com/varunkonnojutech-lab/dotnet-saas-starter) | Production-ready SaaS boilerplate: multi-tenant .NET 8 API (tenant isolation enforced in EF Core), JWT + Microsoft Entra ID auth, Stripe billing with webhooks, background jobs, React admin dashboard, one-command Docker Compose run, Terraform for Azure. Ship your SaaS in a weekend. |
 
 ## 💼 For recruiters
 
