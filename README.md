@@ -18,7 +18,7 @@ I turn real-world senior engineering into code you can actually run. Every repos
 
 ## 🗺️ Start here — the learning path
 
-Sixteen repositories, ordered beginner → advanced. Pick your level and go — every repo runs with one command, and most open instantly in GitHub Codespaces (no setup needed).
+Seventeen repositories, ordered beginner → advanced. Pick your level and go — every repo runs with one command, and most open instantly in GitHub Codespaces (no setup needed).
 
 | # | Level | Repository | What you'll learn | Time |
 |---|---|---|---|---|
@@ -28,16 +28,17 @@ Sixteen repositories, ordered beginner → advanced. Pick your level and go — 
 | 4 | 🟡 Intermediate | [dapper-vs-efcore](https://github.com/varunkonnojutech-lab/dapper-vs-efcore) | EF Core vs Dapper side-by-side: same queries, both ORMs, BenchmarkDotNet numbers | 3–4 days |
 | 5 | 🟡 Intermediate | [sqlserver-efcore-pro](https://github.com/varunkonnojutech-lab/sqlserver-efcore-pro) | SQL Server + EF Core in depth: Docker SQL Server, migrations, stored procedures, indexing, execution plans, and query tuning | 1 week |
 | 6 | 🟡 Intermediate | [dotnet-testing-guide](https://github.com/varunkonnojutech-lab/dotnet-testing-guide) | xUnit + Moq + FluentAssertions: pure unit, mocked, and WebApplicationFactory integration tests | 3–4 days |
-| 7 | 🟠 Senior | [clean-architecture-cqrs-template](https://github.com/varunkonnojutech-lab/clean-architecture-cqrs-template) | Clean Architecture + CQRS + MediatR template you can clone for real projects | 1–2 weeks |
-| 8 | 🟠 Senior | [dotnet-microservices](https://github.com/varunkonnojutech-lab/dotnet-microservices) | Catalog + Ordering microservices, YARP gateway, RabbitMQ events, Docker Compose, Kubernetes | 2 weeks |
-| 9 | 🟠 Senior | [angular-dotnet-starter](https://github.com/varunkonnojutech-lab/angular-dotnet-starter) | Full-stack starter: Angular 18 + .NET 8 Web API with JWT auth | 1 week |
-| 10 | 🟠 Senior | [react-dotnet-starter](https://github.com/varunkonnojutech-lab/react-dotnet-starter) | Full-stack starter: React 18 + Vite frontend + .NET 8 JWT Web API | 1 week |
-| 11 | 🟠 Senior | [signalr-realtime](https://github.com/varunkonnojutech-lab/signalr-realtime) | Realtime apps with SignalR: group chat, live dashboard, strongly-typed hubs, presence, Redis/Azure SignalR scaling | 3–4 days |
-| 12 | 🟠 Senior | [jwt-auth-deepdive](https://github.com/varunkonnojutech-lab/jwt-auth-deepdive) | JWT auth done right: refresh-token rotation, reuse detection, revocation, RBAC, and a Microsoft Entra ID hookup path | 3–4 days |
-| 13 | 🟠 Senior | [grpc-dotnet](https://github.com/varunkonnojutech-lab/grpc-dotnet) | gRPC in .NET 8: unary, server-streaming, and bidirectional calls | 3–4 days |
-| 14 | 🟠 Senior | [azure-functions-serverless](https://github.com/varunkonnojutech-lab/azure-functions-serverless) | Azure Functions (.NET 8): HTTP API, Service Bus trigger, timer trigger, Key Vault + Bicep | 1 week |
-| 15 | 🟠 Senior | [terraform-azure](https://github.com/varunkonnojutech-lab/terraform-azure) | Terraform IaC for Azure: App Service, Azure SQL, Key Vault, Service Bus | 3–4 days |
-| 16 | 🔴 Advanced | [dotnet-advanced](https://github.com/varunkonnojutech-lab/dotnet-advanced) | Event sourcing, Span\<T\>/pipelines performance, source generators, AOT, BenchmarkDotNet | Ongoing |
+| 7 | 🟡 Intermediate | [minimal-apis-cookbook](https://github.com/varunkonnojutech-lab/minimal-apis-cookbook) | 12 Minimal API recipes: typed results, endpoint filters, route groups, OpenAPI grouping | 2–3 days |
+| 8 | 🟠 Senior | [clean-architecture-cqrs-template](https://github.com/varunkonnojutech-lab/clean-architecture-cqrs-template) | Clean Architecture + CQRS + MediatR template you can clone for real projects | 1–2 weeks |
+| 9 | 🟠 Senior | [dotnet-microservices](https://github.com/varunkonnojutech-lab/dotnet-microservices) | Catalog + Ordering microservices, YARP gateway, RabbitMQ events, Docker Compose, Kubernetes | 2 weeks |
+| 10 | 🟠 Senior | [angular-dotnet-starter](https://github.com/varunkonnojutech-lab/angular-dotnet-starter) | Full-stack starter: Angular 18 + .NET 8 Web API with JWT auth | 1 week |
+| 11 | 🟠 Senior | [react-dotnet-starter](https://github.com/varunkonnojutech-lab/react-dotnet-starter) | Full-stack starter: React 18 + Vite frontend + .NET 8 JWT Web API | 1 week |
+| 12 | 🟠 Senior | [signalr-realtime](https://github.com/varunkonnojutech-lab/signalr-realtime) | Realtime apps with SignalR: group chat, live dashboard, strongly-typed hubs, presence, Redis/Azure SignalR scaling | 3–4 days |
+| 13 | 🟠 Senior | [jwt-auth-deepdive](https://github.com/varunkonnojutech-lab/jwt-auth-deepdive) | JWT auth done right: refresh-token rotation, reuse detection, revocation, RBAC, and a Microsoft Entra ID hookup path | 3–4 days |
+| 14 | 🟠 Senior | [grpc-dotnet](https://github.com/varunkonnojutech-lab/grpc-dotnet) | gRPC in .NET 8: unary, server-streaming, and bidirectional calls | 3–4 days |
+| 15 | 🟠 Senior | [azure-functions-serverless](https://github.com/varunkonnojutech-lab/azure-functions-serverless) | Azure Functions (.NET 8): HTTP API, Service Bus trigger, timer trigger, Key Vault + Bicep | 1 week |
+| 16 | 🟠 Senior | [terraform-azure](https://github.com/varunkonnojutech-lab/terraform-azure) | Terraform IaC for Azure: App Service, Azure SQL, Key Vault, Service Bus | 3–4 days |
+| 17 | 🔴 Advanced | [dotnet-advanced](https://github.com/varunkonnojutech-lab/dotnet-advanced) | Event sourcing, Span\<T\>/pipelines performance, source generators, AOT, BenchmarkDotNet | Ongoing |
 
 ## ⭐ Flagship projects
 
