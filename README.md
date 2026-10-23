@@ -43,10 +43,11 @@ Eighteen repositories, ordered beginner → advanced. Pick your level and go —
 
 ## ⭐ Flagship projects
 
-One big, complete, production-shaped project — the kind teams clone and build real products on.
+Big, complete, production-shaped projects — the kind teams clone and build real products on.
 
 | Project | What it is |
 |---|---|
+| 🚀 [supportpilot-ai](https://github.com/varunkonnojutech-lab/supportpilot-ai) | **A real product, not a starter:** SupportPilot AI — an AI customer-support agent for small businesses. Train it on your own docs, drop one script tag on your website, and it answers customer questions 24/7 with sources. Multi-tenant SaaS: knowledge-base training, embeddable chat widget, conversation dashboard, plan quotas, Stripe billing, and a built-in offline brain that answers with citations with zero API keys (OpenAI provider via config). |
 | [dotnet-saas-starter](https://github.com/varunkonnojutech-lab/dotnet-saas-starter) | Production-ready SaaS boilerplate: multi-tenant .NET 8 API (tenant isolation enforced in EF Core), JWT + Microsoft Entra ID auth, Stripe billing with webhooks, background jobs, React admin dashboard, one-command Docker Compose run, Terraform for Azure. Ship your SaaS in a weekend. |
 
 ## 💼 For recruiters
