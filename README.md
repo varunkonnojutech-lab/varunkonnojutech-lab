@@ -18,7 +18,7 @@ I turn real-world senior engineering into code you can actually run. Every repos
 
 ## 🗺️ Start here — the learning path
 
-Nineteen repositories, ordered beginner → advanced. Pick your level and go — every repo runs with one command, and most open instantly in GitHub Codespaces (no setup needed).
+Twenty repositories, ordered beginner → advanced. Pick your level and go — every repo runs with one command, and most open instantly in GitHub Codespaces (no setup needed).
 
 | # | Level | Repository | What you'll learn | Time |
 |---|---|---|---|---|
@@ -37,10 +37,11 @@ Nineteen repositories, ordered beginner → advanced. Pick your level and go —
 | 13 | 🟠 Senior | [signalr-realtime](https://github.com/varunkonnojutech-lab/signalr-realtime) | Realtime apps with SignalR: group chat, live dashboard, strongly-typed hubs, presence, Redis/Azure SignalR scaling | 3–4 days |
 | 14 | 🟠 Senior | [jwt-auth-deepdive](https://github.com/varunkonnojutech-lab/jwt-auth-deepdive) | JWT auth done right: refresh-token rotation, reuse detection, revocation, RBAC, and a Microsoft Entra ID hookup path | 3–4 days |
 | 15 | 🟠 Senior | [kafka-dotnet](https://github.com/varunkonnojutech-lab/kafka-dotnet) | Kafka in .NET 8: keyed producer, consumer groups, manual commits, retries with backoff, dead-letter topic, Docker Kafka | 3–4 days |
-| 16 | 🟠 Senior | [grpc-dotnet](https://github.com/varunkonnojutech-lab/grpc-dotnet) | gRPC in .NET 8: unary, server-streaming, and bidirectional calls | 3–4 days |
-| 17 | 🟠 Senior | [azure-functions-serverless](https://github.com/varunkonnojutech-lab/azure-functions-serverless) | Azure Functions (.NET 8): HTTP API, Service Bus trigger, timer trigger, Key Vault + Bicep | 1 week |
-| 18 | 🟠 Senior | [terraform-azure](https://github.com/varunkonnojutech-lab/terraform-azure) | Terraform IaC for Azure: App Service, Azure SQL, Key Vault, Service Bus | 3–4 days |
-| 19 | 🔴 Advanced | [dotnet-advanced](https://github.com/varunkonnojutech-lab/dotnet-advanced) | Event sourcing, Span\<T\>/pipelines performance, source generators, AOT, BenchmarkDotNet | Ongoing |
+| 16 | 🟠 Senior | [redis-caching-dotnet](https://github.com/varunkonnojutech-lab/redis-caching-dotnet) | Caching in .NET 8: cache-aside, stampede protection (single-flight + stale-while-revalidate), pub/sub invalidation, cache-key discipline | 3–4 days |
+| 17 | 🟠 Senior | [grpc-dotnet](https://github.com/varunkonnojutech-lab/grpc-dotnet) | gRPC in .NET 8: unary, server-streaming, and bidirectional calls | 3–4 days |
+| 18 | 🟠 Senior | [azure-functions-serverless](https://github.com/varunkonnojutech-lab/azure-functions-serverless) | Azure Functions (.NET 8): HTTP API, Service Bus trigger, timer trigger, Key Vault + Bicep | 1 week |
+| 19 | 🟠 Senior | [terraform-azure](https://github.com/varunkonnojutech-lab/terraform-azure) | Terraform IaC for Azure: App Service, Azure SQL, Key Vault, Service Bus | 3–4 days |
+| 20 | 🔴 Advanced | [dotnet-advanced](https://github.com/varunkonnojutech-lab/dotnet-advanced) | Event sourcing, Span\<T\>/pipelines performance, source generators, AOT, BenchmarkDotNet | Ongoing |
 
 ## ⭐ Flagship projects
 
