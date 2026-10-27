@@ -18,7 +18,7 @@ I turn real-world senior engineering into code you can actually run. Every repos
 
 ## 🗺️ Start here — the learning path
 
-Twenty-one repositories, ordered beginner → advanced. Pick your level and go — every repo runs with one command, and most open instantly in GitHub Codespaces (no setup needed).
+Twenty-two repositories, ordered beginner → advanced. Pick your level and go — every repo runs with one command, and most open instantly in GitHub Codespaces (no setup needed).
 
 | # | Level | Repository | What you'll learn | Time |
 |---|---|---|---|---|
@@ -42,7 +42,8 @@ Twenty-one repositories, ordered beginner → advanced. Pick your level and go �
 | 18 | 🟠 Senior | [grpc-dotnet](https://github.com/varunkonnojutech-lab/grpc-dotnet) | gRPC in .NET 8: unary, server-streaming, and bidirectional calls | 3–4 days |
 | 19 | 🟠 Senior | [azure-functions-serverless](https://github.com/varunkonnojutech-lab/azure-functions-serverless) | Azure Functions (.NET 8): HTTP API, Service Bus trigger, timer trigger, Key Vault + Bicep | 1 week |
 | 20 | 🟠 Senior | [terraform-azure](https://github.com/varunkonnojutech-lab/terraform-azure) | Terraform IaC for Azure: App Service, Azure SQL, Key Vault, Service Bus | 3–4 days |
-| 21 | 🔴 Advanced | [dotnet-advanced](https://github.com/varunkonnojutech-lab/dotnet-advanced) | Event sourcing, Span\<T\>/pipelines performance, source generators, AOT, BenchmarkDotNet | Ongoing |
+| 21 | 🟠 Senior | [docker-dotnet-mastery](https://github.com/varunkonnojutech-lab/docker-dotnet-mastery) | Docker for .NET done properly: multi-stage builds, layer-cached restore, non-root containers, distroless (chisel) images, .dockerignore discipline | 3–4 days |
+| 22 | 🔴 Advanced | [dotnet-advanced](https://github.com/varunkonnojutech-lab/dotnet-advanced) | Event sourcing, Span\<T\>/pipelines performance, source generators, AOT, BenchmarkDotNet | Ongoing |
 
 ## ⭐ Flagship projects
 
