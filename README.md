@@ -18,7 +18,7 @@ I turn real-world senior engineering into code you can actually run. Every repos
 
 ## 🗺️ Start here — the learning path
 
-Twenty-four repositories, ordered beginner → advanced. Pick your level and go — every repo runs with one command, and most open instantly in GitHub Codespaces (no setup needed).
+Twenty-five repositories, ordered beginner → advanced. Pick your level and go — every repo runs with one command, and most open instantly in GitHub Codespaces (no setup needed).
 
 | # | Level | Repository | What you'll learn | Time |
 |---|---|---|---|---|
@@ -45,7 +45,8 @@ Twenty-four repositories, ordered beginner → advanced. Pick your level and go 
 | 21 | 🟠 Senior | [bicep-azure](https://github.com/varunkonnojutech-lab/bicep-azure) | Bicep, the Azure-native alternative to Terraform: APIM + .NET 8 Function App, Key Vault via managed identity, modular templates, dev/prod parameter files | 3–4 days |
 | 22 | 🟠 Senior | [docker-dotnet-mastery](https://github.com/varunkonnojutech-lab/docker-dotnet-mastery) | Docker for .NET done properly: multi-stage builds, layer-cached restore, non-root containers, distroless (chisel) images, .dockerignore discipline | 3–4 days |
 | 23 | 🟠 Senior | [github-actions-patterns](https://github.com/varunkonnojutech-lab/github-actions-patterns) | GitHub Actions patterns for .NET: matrix builds, reusable workflows, approval-gated environment deploys, tag-triggered releases | 3–4 days |
-| 24 | 🔴 Advanced | [dotnet-advanced](https://github.com/varunkonnojutech-lab/dotnet-advanced) | Event sourcing, Span\<T\>/pipelines performance, source generators, AOT, BenchmarkDotNet | Ongoing |
+| 24 | 🟠 Senior | [aks-helm-deploy](https://github.com/varunkonnojutech-lab/aks-helm-deploy) | Helm chart deploying the dotnet-microservices app to AKS: dev/prod values, autoscaling, Ingress, secrets via existingSecret, full AKS setup guide | 3–4 days |
+| 25 | 🔴 Advanced | [dotnet-advanced](https://github.com/varunkonnojutech-lab/dotnet-advanced) | Event sourcing, Span\<T\>/pipelines performance, source generators, AOT, BenchmarkDotNet | Ongoing |
 
 ## ⭐ Flagship projects
 
