@@ -56,6 +56,7 @@ Big, complete, production-shaped projects — the kind teams clone and build rea
 
 | Project | What it is |
 |---|---|
+| ✍️ [realtime-collab-docs](https://github.com/varunkonnojutech-lab/realtime-collab-docs) | Notion-like collaborative document editor: several people edit the same document at once and see each other's changes live. SignalR real-time sync with versioned saves (stale saves rejected with 409 instead of overwriting), live presence and cursors, anchored comments, React editor, SQLite storage, one-command Docker Compose run — no keys, no external services. |
 | 🚀 [supportpilot-ai](https://github.com/varunkonnojutech-lab/supportpilot-ai) | **A real product, not a starter:** SupportPilot AI — an AI customer-support agent for small businesses. Train it on your own docs, drop one script tag on your website, and it answers customer questions 24/7 with sources. Multi-tenant SaaS: knowledge-base training, embeddable chat widget, conversation dashboard, plan quotas, Stripe billing, and a built-in offline brain that answers with citations with zero API keys (OpenAI provider via config). |
 | [dotnet-saas-starter](https://github.com/varunkonnojutech-lab/dotnet-saas-starter) | Production-ready SaaS boilerplate: multi-tenant .NET 8 API (tenant isolation enforced in EF Core), JWT + Microsoft Entra ID auth, Stripe billing with webhooks, background jobs, React admin dashboard, one-command Docker Compose run, Terraform for Azure. Ship your SaaS in a weekend. |
 
