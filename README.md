@@ -18,7 +18,7 @@ I turn real-world senior engineering into code you can actually run. Every repos
 
 ## 🗺️ Start here — the learning path
 
-Twenty-eight repositories, ordered beginner → advanced. Pick your level and go — every repo runs with one command, and most open instantly in GitHub Codespaces (no setup needed).
+Twenty-nine repositories, ordered beginner → advanced. Pick your level and go — every repo runs with one command, and most open instantly in GitHub Codespaces (no setup needed).
 
 | # | Level | Repository | What you'll learn | Time |
 |---|---|---|---|---|
@@ -49,7 +49,8 @@ Twenty-eight repositories, ordered beginner → advanced. Pick your level and go
 | 25 | 🟠 Senior | [ddd-tactical-patterns](https://github.com/varunkonnojutech-lab/ddd-tactical-patterns) | DDD tactical patterns in .NET 8: Order aggregate, value objects (Money, Address), strongly-typed ids, domain events, invariants enforced by methods | 3–4 days |
 | 26 | 🟠 Senior | [outbox-pattern](https://github.com/varunkonnojutech-lab/outbox-pattern) | Transactional outbox in .NET 8: order + event saved in one EF Core transaction, relay worker with at-least-once delivery, retries, and dedup | 3–4 days |
 | 27 | 🟠 Senior | [saga-choreography](https://github.com/varunkonnojutech-lab/saga-choreography) | Saga choreography in .NET 8: ordering → payment → shipping coordinated purely by events, with compensating refunds and idempotent handlers | 3–4 days |
-| 28 | 🔴 Advanced | [dotnet-advanced](https://github.com/varunkonnojutech-lab/dotnet-advanced) | Event sourcing, Span\<T\>/pipelines performance, source generators, AOT, BenchmarkDotNet | Ongoing |
+| 28 | 🟠 Senior | [vertical-slice-architecture](https://github.com/varunkonnojutech-lab/vertical-slice-architecture) | Vertical slice architecture in .NET 8: one feature, one folder — orders API where each slice owns its endpoint, validation, and rules | 3–4 days |
+| 29 | 🔴 Advanced | [dotnet-advanced](https://github.com/varunkonnojutech-lab/dotnet-advanced) | Event sourcing, Span\<T\>/pipelines performance, source generators, AOT, BenchmarkDotNet | Ongoing |
 
 ## ⭐ Flagship projects
 
