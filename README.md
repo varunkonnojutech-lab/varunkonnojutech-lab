@@ -18,7 +18,7 @@ I turn real-world senior engineering into code you can actually run. Every repos
 
 ## 🗺️ Start here — the learning path
 
-Twenty-nine repositories, ordered beginner → advanced. Pick your level and go — every repo runs with one command, and most open instantly in GitHub Codespaces (no setup needed).
+Thirty repositories, ordered beginner → advanced. Pick your level and go — every repo runs with one command, and most open instantly in GitHub Codespaces (no setup needed).
 
 | # | Level | Repository | What you'll learn | Time |
 |---|---|---|---|---|
@@ -34,23 +34,24 @@ Twenty-nine repositories, ordered beginner → advanced. Pick your level and go 
 | 10 | 🟠 Senior | [dotnet-microservices](https://github.com/varunkonnojutech-lab/dotnet-microservices) | Catalog + Ordering microservices, YARP gateway, RabbitMQ events, Docker Compose, Kubernetes | 2 weeks |
 | 11 | 🟠 Senior | [angular-dotnet-starter](https://github.com/varunkonnojutech-lab/angular-dotnet-starter) | Full-stack starter: Angular 18 + .NET 8 Web API with JWT auth | 1 week |
 | 12 | 🟠 Senior | [react-dotnet-starter](https://github.com/varunkonnojutech-lab/react-dotnet-starter) | Full-stack starter: React 18 + Vite frontend + .NET 8 JWT Web API | 1 week |
-| 13 | 🟠 Senior | [signalr-realtime](https://github.com/varunkonnojutech-lab/signalr-realtime) | Realtime apps with SignalR: group chat, live dashboard, strongly-typed hubs, presence, Redis/Azure SignalR scaling | 3–4 days |
-| 14 | 🟠 Senior | [jwt-auth-deepdive](https://github.com/varunkonnojutech-lab/jwt-auth-deepdive) | JWT auth done right: refresh-token rotation, reuse detection, revocation, RBAC, and a Microsoft Entra ID hookup path | 3–4 days |
-| 15 | 🟠 Senior | [kafka-dotnet](https://github.com/varunkonnojutech-lab/kafka-dotnet) | Kafka in .NET 8: keyed producer, consumer groups, manual commits, retries with backoff, dead-letter topic, Docker Kafka | 3–4 days |
-| 16 | 🟠 Senior | [redis-caching-dotnet](https://github.com/varunkonnojutech-lab/redis-caching-dotnet) | Caching in .NET 8: cache-aside, stampede protection (single-flight + stale-while-revalidate), pub/sub invalidation, cache-key discipline | 3–4 days |
-| 17 | 🟠 Senior | [resilience-with-polly](https://github.com/varunkonnojutech-lab/resilience-with-polly) | Resilience with Polly v8: retries with backoff+jitter, circuit breaker, timeouts, fallbacks, hedging, and one combined pipeline | 3–4 days |
-| 18 | 🟠 Senior | [grpc-dotnet](https://github.com/varunkonnojutech-lab/grpc-dotnet) | gRPC in .NET 8: unary, server-streaming, and bidirectional calls | 3–4 days |
-| 19 | 🟠 Senior | [azure-functions-serverless](https://github.com/varunkonnojutech-lab/azure-functions-serverless) | Azure Functions (.NET 8): HTTP API, Service Bus trigger, timer trigger, Key Vault + Bicep | 1 week |
-| 20 | 🟠 Senior | [terraform-azure](https://github.com/varunkonnojutech-lab/terraform-azure) | Terraform IaC for Azure: App Service, Azure SQL, Key Vault, Service Bus | 3–4 days |
-| 21 | 🟠 Senior | [bicep-azure](https://github.com/varunkonnojutech-lab/bicep-azure) | Bicep, the Azure-native alternative to Terraform: APIM + .NET 8 Function App, Key Vault via managed identity, modular templates, dev/prod parameter files | 3–4 days |
-| 22 | 🟠 Senior | [docker-dotnet-mastery](https://github.com/varunkonnojutech-lab/docker-dotnet-mastery) | Docker for .NET done properly: multi-stage builds, layer-cached restore, non-root containers, distroless (chisel) images, .dockerignore discipline | 3–4 days |
-| 23 | 🟠 Senior | [github-actions-patterns](https://github.com/varunkonnojutech-lab/github-actions-patterns) | GitHub Actions patterns for .NET: matrix builds, reusable workflows, approval-gated environment deploys, tag-triggered releases | 3–4 days |
-| 24 | 🟠 Senior | [aks-helm-deploy](https://github.com/varunkonnojutech-lab/aks-helm-deploy) | Helm chart deploying the dotnet-microservices app to AKS: dev/prod values, autoscaling, Ingress, secrets via existingSecret, full AKS setup guide | 3–4 days |
-| 25 | 🟠 Senior | [ddd-tactical-patterns](https://github.com/varunkonnojutech-lab/ddd-tactical-patterns) | DDD tactical patterns in .NET 8: Order aggregate, value objects (Money, Address), strongly-typed ids, domain events, invariants enforced by methods | 3–4 days |
-| 26 | 🟠 Senior | [outbox-pattern](https://github.com/varunkonnojutech-lab/outbox-pattern) | Transactional outbox in .NET 8: order + event saved in one EF Core transaction, relay worker with at-least-once delivery, retries, and dedup | 3–4 days |
-| 27 | 🟠 Senior | [saga-choreography](https://github.com/varunkonnojutech-lab/saga-choreography) | Saga choreography in .NET 8: ordering → payment → shipping coordinated purely by events, with compensating refunds and idempotent handlers | 3–4 days |
-| 28 | 🟠 Senior | [vertical-slice-architecture](https://github.com/varunkonnojutech-lab/vertical-slice-architecture) | Vertical slice architecture in .NET 8: one feature, one folder — orders API where each slice owns its endpoint, validation, and rules | 3–4 days |
-| 29 | 🔴 Advanced | [dotnet-advanced](https://github.com/varunkonnojutech-lab/dotnet-advanced) | Event sourcing, Span\<T\>/pipelines performance, source generators, AOT, BenchmarkDotNet | Ongoing |
+| 13 | 🟠 Senior | [angular-material-dashboard](https://github.com/varunkonnojutech-lab/angular-material-dashboard) | Admin dashboard template: Angular Material sidenav shell, overview stats, sortable/filterable orders table, searchable customers, validated settings form | 2–3 days |
+| 14 | 🟠 Senior | [signalr-realtime](https://github.com/varunkonnojutech-lab/signalr-realtime) | Realtime apps with SignalR: group chat, live dashboard, strongly-typed hubs, presence, Redis/Azure SignalR scaling | 3–4 days |
+| 15 | 🟠 Senior | [jwt-auth-deepdive](https://github.com/varunkonnojutech-lab/jwt-auth-deepdive) | JWT auth done right: refresh-token rotation, reuse detection, revocation, RBAC, and a Microsoft Entra ID hookup path | 3–4 days |
+| 16 | 🟠 Senior | [kafka-dotnet](https://github.com/varunkonnojutech-lab/kafka-dotnet) | Kafka in .NET 8: keyed producer, consumer groups, manual commits, retries with backoff, dead-letter topic, Docker Kafka | 3–4 days |
+| 17 | 🟠 Senior | [redis-caching-dotnet](https://github.com/varunkonnojutech-lab/redis-caching-dotnet) | Caching in .NET 8: cache-aside, stampede protection (single-flight + stale-while-revalidate), pub/sub invalidation, cache-key discipline | 3–4 days |
+| 18 | 🟠 Senior | [resilience-with-polly](https://github.com/varunkonnojutech-lab/resilience-with-polly) | Resilience with Polly v8: retries with backoff+jitter, circuit breaker, timeouts, fallbacks, hedging, and one combined pipeline | 3–4 days |
+| 19 | 🟠 Senior | [grpc-dotnet](https://github.com/varunkonnojutech-lab/grpc-dotnet) | gRPC in .NET 8: unary, server-streaming, and bidirectional calls | 3–4 days |
+| 20 | 🟠 Senior | [azure-functions-serverless](https://github.com/varunkonnojutech-lab/azure-functions-serverless) | Azure Functions (.NET 8): HTTP API, Service Bus trigger, timer trigger, Key Vault + Bicep | 1 week |
+| 21 | 🟠 Senior | [terraform-azure](https://github.com/varunkonnojutech-lab/terraform-azure) | Terraform IaC for Azure: App Service, Azure SQL, Key Vault, Service Bus | 3–4 days |
+| 22 | 🟠 Senior | [bicep-azure](https://github.com/varunkonnojutech-lab/bicep-azure) | Bicep, the Azure-native alternative to Terraform: APIM + .NET 8 Function App, Key Vault via managed identity, modular templates, dev/prod parameter files | 3–4 days |
+| 23 | 🟠 Senior | [docker-dotnet-mastery](https://github.com/varunkonnojutech-lab/docker-dotnet-mastery) | Docker for .NET done properly: multi-stage builds, layer-cached restore, non-root containers, distroless (chisel) images, .dockerignore discipline | 3–4 days |
+| 24 | 🟠 Senior | [github-actions-patterns](https://github.com/varunkonnojutech-lab/github-actions-patterns) | GitHub Actions patterns for .NET: matrix builds, reusable workflows, approval-gated environment deploys, tag-triggered releases | 3–4 days |
+| 25 | 🟠 Senior | [aks-helm-deploy](https://github.com/varunkonnojutech-lab/aks-helm-deploy) | Helm chart deploying the dotnet-microservices app to AKS: dev/prod values, autoscaling, Ingress, secrets via existingSecret, full AKS setup guide | 3–4 days |
+| 26 | 🟠 Senior | [ddd-tactical-patterns](https://github.com/varunkonnojutech-lab/ddd-tactical-patterns) | DDD tactical patterns in .NET 8: Order aggregate, value objects (Money, Address), strongly-typed ids, domain events, invariants enforced by methods | 3–4 days |
+| 27 | 🟠 Senior | [outbox-pattern](https://github.com/varunkonnojutech-lab/outbox-pattern) | Transactional outbox in .NET 8: order + event saved in one EF Core transaction, relay worker with at-least-once delivery, retries, and dedup | 3–4 days |
+| 28 | 🟠 Senior | [saga-choreography](https://github.com/varunkonnojutech-lab/saga-choreography) | Saga choreography in .NET 8: ordering → payment → shipping coordinated purely by events, with compensating refunds and idempotent handlers | 3–4 days |
+| 29 | 🟠 Senior | [vertical-slice-architecture](https://github.com/varunkonnojutech-lab/vertical-slice-architecture) | Vertical slice architecture in .NET 8: one feature, one folder — orders API where each slice owns its endpoint, validation, and rules | 3–4 days |
+| 30 | 🔴 Advanced | [dotnet-advanced](https://github.com/varunkonnojutech-lab/dotnet-advanced) | Event sourcing, Span\<T\>/pipelines performance, source generators, AOT, BenchmarkDotNet | Ongoing |
 
 ## ⭐ Flagship projects
 
