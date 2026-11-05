@@ -18,7 +18,7 @@ I turn real-world senior engineering into code you can actually run. Every repos
 
 ## 🗺️ Start here — the learning path
 
-Thirty repositories, ordered beginner → advanced. Pick your level and go — every repo runs with one command, and most open instantly in GitHub Codespaces (no setup needed).
+Thirty-one repositories, ordered beginner → advanced. Pick your level and go — every repo runs with one command, and most open instantly in GitHub Codespaces (no setup needed).
 
 | # | Level | Repository | What you'll learn | Time |
 |---|---|---|---|---|
@@ -52,6 +52,7 @@ Thirty repositories, ordered beginner → advanced. Pick your level and go — e
 | 28 | 🟠 Senior | [saga-choreography](https://github.com/varunkonnojutech-lab/saga-choreography) | Saga choreography in .NET 8: ordering → payment → shipping coordinated purely by events, with compensating refunds and idempotent handlers | 3–4 days |
 | 29 | 🟠 Senior | [vertical-slice-architecture](https://github.com/varunkonnojutech-lab/vertical-slice-architecture) | Vertical slice architecture in .NET 8: one feature, one folder — orders API where each slice owns its endpoint, validation, and rules | 3–4 days |
 | 30 | 🔴 Advanced | [dotnet-advanced](https://github.com/varunkonnojutech-lab/dotnet-advanced) | Event sourcing, Span\<T\>/pipelines performance, source generators, AOT, BenchmarkDotNet | Ongoing |
+| 31 | 🟠 Senior | [react-query-dotnet](https://github.com/varunkonnojutech-lab/react-query-dotnet) | TanStack Query in React 18 + TypeScript against a .NET 8 JWT API: optimistic mutations with rollback, infinite queries, silent token refresh, live cache inspector | 2–3 days |
 
 ## ⭐ Flagship projects
 
