@@ -18,7 +18,7 @@ I turn real-world senior engineering into code you can actually run. Every repos
 
 ## 🗺️ Start here — the learning path
 
-Thirty-two repositories, ordered beginner → advanced. Pick your level and go — every repo runs with one command, and most open instantly in GitHub Codespaces (no setup needed).
+Thirty-three repositories, ordered beginner → advanced. Pick your level and go — every repo runs with one command, and most open instantly in GitHub Codespaces (no setup needed).
 
 | # | Level | Repository | What you'll learn | Time |
 |---|---|---|---|---|
@@ -54,6 +54,7 @@ Thirty-two repositories, ordered beginner → advanced. Pick your level and go �
 | 30 | 🔴 Advanced | [dotnet-advanced](https://github.com/varunkonnojutech-lab/dotnet-advanced) | Event sourcing, Span\<T\>/pipelines performance, source generators, AOT, BenchmarkDotNet | Ongoing |
 | 31 | 🟠 Senior | [react-query-dotnet](https://github.com/varunkonnojutech-lab/react-query-dotnet) | TanStack Query in React 18 + TypeScript against a .NET 8 JWT API: optimistic mutations with rollback, infinite queries, silent token refresh, live cache inspector | 2–3 days |
 | 32 | 🟠 Senior | [dotnet-diagnostics](https://github.com/varunkonnojutech-lab/dotnet-diagnostics) | Diagnose .NET like a pro: dotnet-counters, dotnet-trace, dotnet-dump, dotnet-gcdump & dotnet-stack against a deliberately sick demo API — CPU hotspot, memory leak, thread-pool starvation, lock contention, each with the fix | 3–4 days |
+| 33 | 🟠 Senior | [owasp-dotnet](https://github.com/varunkonnojutech-lab/owasp-dotnet) | OWASP Top 10 in .NET 8: every flaw demonstrated live and fixed — SQL injection, broken access control, SSRF, MD5 passwords, unsigned webhooks — with tests proving the attack works on /vuln and fails on /secure | 3–4 days |
 
 ## ⭐ Flagship projects
 
