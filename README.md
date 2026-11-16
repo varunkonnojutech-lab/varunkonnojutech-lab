@@ -21,7 +21,7 @@ I turn real-world senior engineering into code you can actually run. Every repos
 
 ## 🗺️ Start here — the learning path
 
-Forty-one repositories, ordered beginner → advanced. Pick your level and go — every repo runs with one command, and most open instantly in GitHub Codespaces (no setup needed).
+Forty-two repositories, ordered beginner → advanced. Pick your level and go — every repo runs with one command, and most open instantly in GitHub Codespaces (no setup needed).
 
 | # | Level | Repository | What you'll learn | Time |
 |---|---|---|---|---|
@@ -66,6 +66,7 @@ Forty-one repositories, ordered beginner → advanced. Pick your level and go �
 | 39 | 🟠 Senior | [dotnet-background-jobs](https://github.com/varunkonnojutech-lab/dotnet-background-jobs) | Background jobs in .NET 8 with Quartz.NET: cron schedules, idempotent jobs, retries that actually work, misfire handling, graceful shutdown, and an HTTP control surface — plus the Quartz vs Hangfire vs IHostedService decision guide | 3–4 days |
 | 40 | 🟠 Senior | [dotnet-maui](https://github.com/varunkonnojutech-lab/dotnet-maui) | .NET MAUI field-service app: one codebase for Android, iOS, macOS & Windows — offline-first work orders, sync outbox with idempotent retry, and a fully tested core library | 3–4 days |
 | 41 | 🟠 Senior | [dotnet-postgresql](https://github.com/varunkonnojutech-lab/dotnet-postgresql) | PostgreSQL in .NET 8: JSONB specs, trigger-maintained full-text search, array tags, advisory-lock idempotent orders, LISTEN/NOTIFY, EF Core vs Dapper timed — plus the Postgres-for-SQL-Server-devs guide | 3–4 days |
+| 42 | 🟠 Senior | [dotnet-mongodb](https://github.com/varunkonnojutech-lab/dotnet-mongodb) | MongoDB in .NET 8: official driver, $text search, aggregation pipelines, change streams, multi-document transactions with idempotent orders, TTL indexes, driver vs EF Core provider timed — plus the Mongo-for-SQL-Server-devs guide | 3–4 days |
 
 ## ⭐ Flagship projects
 
